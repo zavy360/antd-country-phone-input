@@ -1,11 +1,9 @@
 {
   "license": "MIT",
-  "name": "antd-country-phone-input",
-  "version": "4.3.1",
+  "name": "@zavy360/antd-country-phone-input",
+  "version": "1.0.0",
   "description": "Country phone input component as standard Ant.Design form item",
-  "author": "wangsijie <i@sijie.wang>",
-  "homepage": "https://boyuai.github.io/antd-country-phone-input/",
-  "repository": "git@github.com:boyuai/antd-country-phone-input.git",
+  "repository": "git@github.com:zavy360/antd-country-phone-input.git",
   "keywords": [
     "react",
     "antd",
