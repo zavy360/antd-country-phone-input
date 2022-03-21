@@ -64,3 +64,7 @@ Make changes to the code base and then run and update the version in `package.js
 Push the changes to github then run:
 
 `yarn prepack`
+
+Then publish the updated package
+
+`npm publish`

@@ -44,7 +44,8 @@ export const AreaSelect = ({
           };
           return (
             <Select.Option {...optionProps} {...fixedProps}>
-              {item.emoji} {key} <Tag>+{item.phoneCode}</Tag>
+              <Tag>+{item.phoneCode}</Tag>
+              {item.emoji} {item.name}
             </Select.Option>
           );
         })}
