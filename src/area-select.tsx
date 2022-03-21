@@ -1,4 +1,4 @@
-import { Select } from 'antd';
+import { Select, Tag } from 'antd';
 import { OptionProps, SelectProps } from 'antd/es/select';
 import React, { useContext } from 'react';
 import { configContext } from './config';
@@ -44,7 +44,7 @@ export const AreaSelect = ({
           };
           return (
             <Select.Option {...optionProps} {...fixedProps}>
-              {item.emoji} {key}
+              {item.emoji} {key} <Tag>+{item.phoneCode}</Tag>
             </Select.Option>
           );
         })}
