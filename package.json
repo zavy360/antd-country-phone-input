@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "name": "@zavy360/antd-country-phone-input",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Country phone input component as standard Ant.Design form item",
   "repository": "git@github.com:zavy360/antd-country-phone-input.git",
   "keywords": [

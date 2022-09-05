@@ -31,6 +31,11 @@ export const defaultAreas: Area[] = [
     phoneCode: 65,
     short: 'SG',
   },
+  {
+    emoji: '🇵🇭',
+    phoneCode: 608,
+    short: 'PH',
+  },
   // {
   //   emoji: '🇨🇦',
   //   phoneCode: 1,
